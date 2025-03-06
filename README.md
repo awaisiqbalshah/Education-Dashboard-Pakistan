@@ -1,7 +1,7 @@
 # 📊 Education Dashboard – Pakistan  
 🚀 *An interactive Excel dashboard analyzing education data across Pakistan using pivot tables, slicers, and charts.*  
 
-![Dashboard Preview](Screenshots/Dashboard_Overview.png)  
+![Dashboard Preview](Screenshots/DashBoard.png)  
 
 ---
 
