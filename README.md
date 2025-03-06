@@ -41,9 +41,9 @@ This project is an **interactive Excel dashboard** designed to analyze key educa
 - **Education Score vs. Learning Score (Bar Chart)** – Analyze the relationship between education quality and learning outcomes  
 - **Enrollment & Retention Trends (Line Chart)** – Track how enrollment and retention scores change over the years  
 
-![City Distribution](Screenshots/City_Distribution.png)  
-![Education Scores](Screenshots/Education_Scores.png)  
-![Enrollment Trends](Screenshots/Enrollment_Trends.png)  
+![City Distribution](Screenshots/City.png)  
+![Education, Learning, & Retentation Scores](Screenshots/City.png)  
+
 
 ---
 
