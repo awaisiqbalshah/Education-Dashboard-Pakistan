@@ -30,9 +30,8 @@ This project is an **interactive Excel dashboard** designed to analyze key educa
 - **Primary & Secondary Schools** – Identifying gaps in education levels  
 - **Single-Classroom & Single-Teacher Schools** – Measuring infrastructure challenges  
 - **Enrollment & Retention Trends** – Tracking student progression  
-- **Education & Learning Scores** – Understanding quality of education  
-- **Gender Parity in Schools** – Analyzing equity in access to education  
-
+- **Education & Learning Scores** – Understanding quality of education
+  
 ---
 
 ## 📈 Visualizations in the Dashboard
@@ -41,9 +40,7 @@ This project is an **interactive Excel dashboard** designed to analyze key educa
 - **Education Score vs. Learning Score (Bar Chart)** – Analyze the relationship between education quality and learning outcomes  
 - **Enrollment & Retention Trends (Line Chart)** – Track how enrollment and retention scores change over the years  
 
-![City Distribution](Screenshots/City.png)  
-![Education, Learning, & Retentation Scores](Screenshots/scores.png)  
-
+![City Distribution](Screenshots/City.png)  ![Education, Learning, & Retentation Scores](Screenshots/Scores.png)  
 
 ---
 
@@ -79,7 +76,7 @@ Education-Dashboard-Pakistan/
 ---
 
 ## 📌 How to Use the Dashboard?
-1️⃣ **Download** the `Education_Dashboard.xlsx` file from the **Dashboard** folder.  
+1️⃣ **Download** the `Pakistan_Education_Dashboard.xlsx` file from the **Dashboard** folder.  
 2️⃣ Open the file in **Excel 2013 or later versions**.  
 3️⃣ Use the **Slicer for City Selection** to filter the data dynamically.  
 4️⃣ Explore **interactive charts & KPIs** to analyze education trends.  
