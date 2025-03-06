@@ -94,7 +94,7 @@ Education-Dashboard-Pakistan/
 💡 Let’s discuss: *How do you visualize education data?* Drop your thoughts in the comments!  
 
 📧 **Email:** awaisiqbal_shah@yahoo.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/awaisiqbalshah)  
+🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/awaisiqbalshah)  
 📌 **GitHub Repo:** [Education Dashboard Project](https://github.com/awaisiqbalshah/Education-Dashboard-Pakistan)  
 
 🎉 **If you find this project useful, give it a ⭐ on GitHub!** 🚀  
