@@ -42,25 +42,38 @@ This project is an **interactive Excel dashboard** designed to analyze key educa
 - **Enrollment & Retention Trends (Line Chart)** – Track how enrollment and retention scores change over the years  
 
 ![City Distribution](Screenshots/City.png)  
-![Education, Learning, & Retentation Scores](Screenshots/City.png)  
+![Education, Learning, & Retentation Scores](Screenshots/scores.png)  
 
 
 ---
 
 ## 📂 Project Structure
-Education-Dashboard-Pakistan/ │── Data/
+Education-Dashboard-Pakistan/ 
+
+│── Data/
+
 │ ├── Raw_Data.xlsx
+
 │ ├── Cleaned_Data.xlsx
+
 │
+
 │── Dashboard/
+
 │ ├── Education_Dashboard.xlsx
+
 │
+
 │── Screenshots/
-│ ├── Dashboard_Overview.png
-│ ├── City_Distribution.png
-│ ├── Education_Scores.png
-│ ├── Enrollment_Trends.png
+
+│ ├── Dashboard.png
+
+│ ├── City.png
+
+│ ├── Scores.png
+
 │
+
 │── README.md
 
 ---
@@ -80,19 +93,11 @@ Education-Dashboard-Pakistan/ │── Data/
 
 ---
 
-## 📢 Acknowledgments  
-Big thanks to:  
-- [Your Mentor / Instructor Name] for guidance  
-- **Maven Analytics** for dataset inspiration  
-- **Excel & Power BI Community** for resources  
-
----
-
 ## 📌 Connect with Me  
 💡 Let’s discuss: *How do you visualize education data?* Drop your thoughts in the comments!  
 
 📧 **Email:** awaisiqbal_shah@yahoo.com  
 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/awaisiqbalshah)  
-📌 **GitHub Repo:** [Education Dashboard Project](https://github.com/yourgithubusername/Education-Dashboard-Pakistan)  
+📌 **GitHub Repo:** [Education Dashboard Project](https://github.com/awaisiqbalshah/Education-Dashboard-Pakistan)  
 
 🎉 **If you find this project useful, give it a ⭐ on GitHub!** 🚀  
